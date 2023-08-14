@@ -8,7 +8,7 @@ A remake of the TRS-80 Model I Japanese edition motherboard.
 
 This reposistory contains the BOM and gerbers for a remake of the TEC, Japanese version of the TRS-80 Model I, and some related projects and files to help make it work. The BOM currently is just the iBOM generated from Kicad. Proper BOM to follow.
 
-The Japanese board is a rework of the original US edition, some components updated and extra jumpers added to configure the system for 50/60 Hz use, support for an extra character ROM and change of the RAM to use 4116 chips which are more readily available. They keyboard pinout and matrix for the Japanese keyboard is different. Because of this for the purposes of making the remake more useful we've added a second pin header for the connection of an original US keyboard.
+The Japanese board is a rework of the original US edition, some components updated and extra jumpers added to configure the system for 50/60 Hz use, support for an extra character ROM and change of the RAM to use 4116 chips which are more readily available. The keyboard pinout and matrix for the Japanese keyboard is different. Because of this for the purposes of making the remake more useful we've added a second pin header for the connection of an original US keyboard.
 
 ## Character ROM
 
