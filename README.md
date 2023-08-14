@@ -1,2 +1,2 @@
 # TRS80IJP
-TRS-80 Model I Japanese Version
+A remake of the TRS-80 Model I TEC (Japanese edition) motherboard.
