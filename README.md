@@ -2,7 +2,7 @@
 
 A remake of the TRS-80 Model I Japanese edition motherboard.
 
-*Work in progress*
+*Page updates in progress*
 
 ![Build Board in Green](https://github.com/Board-Folk/TRS80IJP/blob/main/images/builtboardv1.0_small.jpg)
 
