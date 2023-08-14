@@ -4,7 +4,7 @@ A remake of the TRS-80 Model I Japanese edition motherboard.
 
 *Work in progress*
 
-![Alt text](image link)
+![Build Board in Green](https://github.com/Board-Folk/TRS80IJP/blob/main/images/builtboardv1.0_small.jpg)
 
 This reposistory currently contains the BOM and gerbers for a remake of the TEC, Japanese version of the TRS-80 Model I, and some related projects and files to help make it work. The BOM currently is just the iBOM generated.
 
