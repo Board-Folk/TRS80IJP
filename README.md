@@ -2,7 +2,7 @@
 
 A remake of the TRS-80 Model I Japanese edition motherboard.
 
-*Page updates in progress*
+*More updates to follow*
 
 ![Build Board in Green](https://github.com/Board-Folk/TRS80IJP/blob/main/images/builtboardv1.0_small.jpg)
 
@@ -12,7 +12,7 @@ The Japanese board is a rework of the original US edition, some components updat
 
 ## Notes on the Character ROM
 
-The board has positions for two character ROMs.
+The Japanese board has positions for two character ROMs.
 
 The first, the original Motorola character ROM now almost unobtainable, on the original board is labelled with the part number 8046773. This is a masked rom programmed at the factory to the specs of Tandy, and is a variation of a stock ROM with a slightly modified character set. This ROM appears to be the same for both the Japanese and US versions of the board that we've seen.
 
