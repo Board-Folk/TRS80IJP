@@ -20,6 +20,11 @@ The second character ROM we don't actually have adds a Kana character set which 
 
 The slightly more readily available MCM6674P character ROM can be used, but the character layout isn't compatible without modification by the BASIC ROM. If you need to use this we've created an adapter board (see the Extras folder) to modify the character map using an EPROM. Without it you'll end up with hieroglyphics ([see image](https://github.com/Board-Folk/TRS80IJP/blob/main/images/wrongmap.jpg)).
 
+## Revisions
+
+  * Version 1.0 initial tested release (as pictured).
+  * Version 1.1 Updated silkscreen including jumper tables.
+
 ## Credits
 
 PCB Layout by Rob Taylor @peepouk. Schematics recreated by Ian Cudlip @grandoldian, and Chrissy @chris_jh.
