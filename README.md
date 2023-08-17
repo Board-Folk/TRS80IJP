@@ -25,6 +25,10 @@ The slightly more readily available MCM6674P character ROM can be used, but the 
   * Version 1.0 initial tested release (as pictured).
   * Version 1.1 Updated silkscreen including jumper tables.
 
+## Links
+
+  [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174)
+
 ## Credits
 
 PCB Layout by Rob Taylor @peepouk. Schematics recreated by Ian Cudlip @grandoldian, and Chrissy @chris_jh.
@@ -32,4 +36,4 @@ PCB Layout by Rob Taylor @peepouk. Schematics recreated by Ian Cudlip @grandoldi
 ## Thanks
 
   * The rest of the Board Folk
-  * Adrian Black and friends for their test ROM which has been invaluable during testing. https://github.com/misterblack1/trs80-diagnosticrom
+  * Adrian Black and friends for their test ROM which has been invaluable during testing. [TRS-80 Diagnostic ROM](https://github.com/misterblack1/trs80-diagnosticrom).
