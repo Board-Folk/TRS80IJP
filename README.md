@@ -22,7 +22,6 @@ The slightly more readily available MCM6674P character ROM can be used, but the 
 
 ## Revisions
 
-  * Version 1.0 initial test version.
   * Version 1.1 Updated silkscreen including jumper tables for release.
 
 ## Links
