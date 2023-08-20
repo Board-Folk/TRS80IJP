@@ -1,0 +1,102 @@
+(footprint "Keyboard" (version 20220914) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "File: TRS80IJP_KEYBOARD.kicad_sch")
+  (property "Sheetname" "KEYBOARD & EDGE CONNECTOR")
+  (property "ki_description" "Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)")
+  (property "ki_keywords" "connector")
+  (attr through_hole)
+  (fp_text reference "CN1" (at -0.09 3.02 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1731a649-0c2d-425d-a9ae-8d8fa6acec4f)
+  )
+  (fp_text value "KEYBOARD" (at 0.09 10.71 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7604bb12-8f7d-4a48-b3f9-20bcad4778b6)
+  )
+  (fp_text user "${REFERENCE}" (at 0.02 12.14 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fcac7adc-595f-4bc7-874e-1e7228866bbf)
+  )
+  (fp_rect (start -23.43 4.09) (end 24.02 9.56)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Margin") (tstamp 81ef5cd2-89d1-4ba9-b371-ec4274933566))
+  (pad "1" thru_hole oval (at 22.88 5.13 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 73a6a59a-1e3e-4761-af9d-658017127e8c))
+  (pad "1" smd rect (at 22.91 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp c0768499-cc87-4e49-87a0-cda73ecbc71b))
+  (pad "1" smd rect (at 22.91 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp ef44d6e8-6978-4a33-98c3-f5a0d4100451))
+  (pad "2" thru_hole oval (at 20.38 5.13 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp eef05f0a-43d5-492e-9b6d-bdedc3917c44))
+  (pad "2" smd rect (at 20.41 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 5dcffcbd-0759-435b-9c94-e77f68dcdfce))
+  (pad "2" smd rect (at 20.41 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp dc6a5c8b-8428-4423-8c08-757be920746e))
+  (pad "3" thru_hole oval (at 17.88 5.13 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 94045aa9-053e-4b56-b6f7-600a284cad76))
+  (pad "3" smd rect (at 17.9 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 5fb2a6e1-2a2d-45a6-b750-c6c20f6f9fee))
+  (pad "3" smd rect (at 17.9 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 6ce215a1-6a12-4eff-bba5-98263692e03c))
+  (pad "4" thru_hole oval (at 15.37 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp ee6bb23c-16c2-46f0-b340-96c6c10376ae))
+  (pad "4" smd rect (at 15.4 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 666954d4-2e85-4113-b0e5-3d2f7aaf2c1d))
+  (pad "4" smd rect (at 15.4 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 8c8c8736-6982-4451-965f-31e291f3a4b3))
+  (pad "5" thru_hole oval (at 12.87 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 90c636db-ba4b-464d-8f89-f11b5dcbfed9))
+  (pad "5" smd rect (at 12.9 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 883f7e10-2921-4713-89a2-23aec1ff3bbb))
+  (pad "5" smd rect (at 12.9 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 8d9f6035-fb94-442a-bb66-d512c95869b0))
+  (pad "6" thru_hole oval (at 10.37 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 1e783450-f197-4cda-9834-cb044e67ed02))
+  (pad "6" smd rect (at 10.39 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 90104ad2-15a3-422c-8a46-f4f9550b52dc))
+  (pad "6" smd rect (at 10.39 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 987a914f-b3d9-4b7a-ab8d-c418fee94367))
+  (pad "7" thru_hole oval (at 7.87 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 2590d5cf-5a89-4b02-aea2-fbf21d9795ec))
+  (pad "7" smd rect (at 7.89 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 1be0a662-9cd3-4d7f-9ef4-ef149fa3ebac))
+  (pad "7" smd rect (at 7.89 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 58ed5b5b-b890-4b97-9876-effcf308c11d))
+  (pad "8" thru_hole oval (at 5.37 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp a474c989-397e-4804-901e-2cc8171cffd4))
+  (pad "8" smd rect (at 5.39 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp d0d00911-eb34-4bc6-84fe-acc6fd2a247d))
+  (pad "8" smd rect (at 5.39 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp f1c757f4-b993-43c4-9a88-e19ece48ad30))
+  (pad "9" thru_hole oval (at 2.87 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 8875a395-2dfb-4d93-9d98-2b080a7fd68b))
+  (pad "9" smd rect (at 2.89 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 0283df45-1a50-47c2-8fa0-f001327f91bc))
+  (pad "9" smd rect (at 2.89 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 3fdd9fed-324b-4842-9015-673f1bd6c50f))
+  (pad "10" thru_hole oval (at 0.37 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 60d51344-89f0-458b-b537-828c7a393734))
+  (pad "10" smd rect (at 0.38 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp d489a202-2f40-4a97-88fe-69fe1c2b837a))
+  (pad "10" smd rect (at 0.38 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp d4e7386f-3508-4cf8-86b6-fb089c8980d0))
+  (pad "11" thru_hole oval (at -2.13 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 622c724d-d28b-4c2e-a9c2-a19aba49b3d1))
+  (pad "11" smd rect (at -2.12 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 1f3b739a-e503-4a75-97b9-e9e66f886a35))
+  (pad "11" smd rect (at -2.12 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 2ff82a41-c6c5-49d9-bf64-526f9661c884))
+  (pad "12" thru_hole oval (at -4.63 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 3cdc6b04-5788-4027-a68f-415162271759))
+  (pad "12" smd rect (at -4.61 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 5a62e4b3-5a63-4623-aae9-2c39ed36f101))
+  (pad "12" smd rect (at -4.61 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 6412083b-525a-4bc0-8427-b96981eb3806))
+  (pad "13" thru_hole oval (at -7.13 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 54b0a2fa-6272-4989-9da0-e020ba79e023))
+  (pad "13" smd rect (at -7.11 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 1a36d801-a928-49f2-b73c-53a5c044241e))
+  (pad "13" smd rect (at -7.11 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp b242809a-ac29-486f-9210-f59ca1fd0864))
+  (pad "14" thru_hole oval (at -9.63 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 37c39c94-c7ee-40af-b36d-9bf045d33875))
+  (pad "14" smd rect (at -9.62 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 47ad880d-e634-47b5-91cd-433339883bdd))
+  (pad "14" smd rect (at -9.62 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 6a80b7de-727f-4cdc-a98c-ca48afddba2c))
+  (pad "15" thru_hole oval (at -12.13 5.135 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp cc2bbdf9-0078-469a-bf91-394a2c4dbe68))
+  (pad "15" smd rect (at -12.12 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 0751f9b6-d695-42ab-8478-b4ff884e0398))
+  (pad "15" smd rect (at -12.12 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 6f3876e6-69c9-4ba2-bf18-18172e889aa3))
+  (pad "16" thru_hole oval (at -14.63 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 0034a3d4-fa50-4a13-a985-9ee50a511725))
+  (pad "16" smd rect (at -14.62 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 582b888d-3c04-4d39-9b11-19db0a067645))
+  (pad "16" smd rect (at -14.62 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp dbb3b3f7-72eb-41db-801c-5057ca5afee4))
+  (pad "17" thru_hole oval (at -17.13 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 01d0a7fb-b408-4cad-be19-5a4e07ba8a9d))
+  (pad "17" smd rect (at -17.12 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 104be13f-1226-4760-92d4-e0b2da3ae4bf))
+  (pad "17" smd rect (at -17.12 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp f46a9d6e-2062-4a92-bb8a-13c2a1c228b7))
+  (pad "18" thru_hole oval (at -19.63 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 737d84dd-f6a6-4346-9e0a-07c15a1a76a0))
+  (pad "18" smd rect (at -19.63 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 3ebdc77d-6c23-4c2e-a703-5569b9ffb183))
+  (pad "18" smd rect (at -19.63 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 5430f4d8-a624-4940-b759-2c6f5913b9f6))
+  (pad "19" thru_hole oval (at -22.13 5.14 270) (size 1.7 1.7) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 0b09adcd-d403-47ee-b710-dae3280a31c4))
+  (pad "19" smd rect (at -22.13 7.16) (size 1.7 4.15) (layers "B.Cu" "B.Mask") (tstamp 60c376a0-540e-43b8-b98a-ff6e4df563b4))
+  (pad "19" smd rect (at -22.13 7.16) (size 1.7 4.15) (layers "F.Cu" "F.Mask") (tstamp 870d2191-c130-4256-8145-c6f4349181f3))
+  (group "" (id 3b98d5f6-9203-4d75-8a1e-b3381f9490a9)
+    (members
+      0283df45-1a50-47c2-8fa0-f001327f91bc
+      1a36d801-a928-49f2-b73c-53a5c044241e
+      1f3b739a-e503-4a75-97b9-e9e66f886a35
+      3ebdc77d-6c23-4c2e-a703-5569b9ffb183
+      47ad880d-e634-47b5-91cd-433339883bdd
+      582b888d-3c04-4d39-9b11-19db0a067645
+      58ed5b5b-b890-4b97-9876-effcf308c11d
+      5a62e4b3-5a63-4623-aae9-2c39ed36f101
+      5dcffcbd-0759-435b-9c94-e77f68dcdfce
+      60c376a0-540e-43b8-b98a-ff6e4df563b4
+      666954d4-2e85-4113-b0e5-3d2f7aaf2c1d
+      6ce215a1-6a12-4eff-bba5-98263692e03c
+      6f3876e6-69c9-4ba2-bf18-18172e889aa3
+      883f7e10-2921-4713-89a2-23aec1ff3bbb
+      90104ad2-15a3-422c-8a46-f4f9550b52dc
+      d489a202-2f40-4a97-88fe-69fe1c2b837a
+      ef44d6e8-6978-4a33-98c3-f5a0d4100451
+      f1c757f4-b993-43c4-9a88-e19ece48ad30
+      f46a9d6e-2062-4a92-bb8a-13c2a1c228b7
+    )
+  )
+)
