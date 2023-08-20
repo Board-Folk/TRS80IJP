@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "Connectors_2")(type "KiCad")(uri "${KIPRJMOD}/Connectors_2.pretty")(options "")(descr ""))
-  (lib (name "TRS80IJP")(type "KiCad")(uri "${KIPRJMOD}/TRS80IJP.pretty")(options "")(descr ""))
-  (lib (name "TRS80")(type "KiCad")(uri "${KIPRJMOD}/TRS80.pretty")(options "")(descr ""))
-)
