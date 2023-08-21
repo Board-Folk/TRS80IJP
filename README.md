@@ -16,7 +16,7 @@ The Japanese board is a rework of the original US edition, some components updat
   
 ## Version 1.1 Bill-of-Materials
 
-All resistors 1/4W unless specified. Suggested substitutes might be wrong. Any feedback welcome.
+All resistors 1/4W and capacitors 5mm pitch unless specified. Suggested substitutes might be wrong. Any feedback welcome.
 
 |Qty|Reference(s)|Value|Type|Notes|
 |:--:|:--:|:--:|:--:|:--:|
@@ -59,13 +59,14 @@ All resistors 1/4W unless specified. Suggested substitutes might be wrong. Any f
 |4|C3, C7, C13, C15|10nF|Capacitor||
 |1|C43|100pF|Capacitor||
 |1|C60|47pF|Capacitor||
+|1|C48|1nF|Capacitor||
 |6|C1, C4, C6, C12, C14, C40|10uF 16V|Electrolytic Capacitor||
 |1|C10|10000uF 16V|Electrolytic Capacitor||
 |1|C19|100uF 16V|Electrolytic Capacitor||
 |1|C5|220uF 16V|Electrolytic Capacitor||
 |1|C70|22uF 16V|Electrolytic Capacitor||
 |1|C9|2200uF 35V|Electrolytic Capacitor||
-|4|C11, C16, C48, C57|1nF|Film Capacitor||
+|3|C11, C16, C57|1nF|Film Capacitor|2.5mm|
 |1|C50|2.7nF|Film Capacitor||
 |1|CR1|S2V B20 Rectifier|Diode||
 |1|CR2|1N4735A Zener|Diode||
