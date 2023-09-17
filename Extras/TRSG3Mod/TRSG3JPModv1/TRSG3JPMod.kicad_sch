@@ -1165,7 +1165,7 @@
     (property "Reference" "J1" (at 158.75 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CGA" (at 158.75 46.99 0)
+    (property "Value" "CGB" (at 158.75 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "TRS80ICHARMAP:CHARPLUG" (at 157.48 60.96 0)
