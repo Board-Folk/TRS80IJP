@@ -1,6 +1,6 @@
 # G3Mod and G3JPMod Character ROM Substitute Board ROM Images
 
-ROM Images for use with the two ROM substitute boards. More images to follow. We still need to find a Kana character set!
+ROM images for use with the two ROM substitute boards. More images to follow. We still need to find a Kana character set!
 
 ## TRS80I_Short1_2k.bin
 

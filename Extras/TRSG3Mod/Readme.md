@@ -8,16 +8,16 @@ Each board provides two pin connections, the first of which needs to be connecte
 
 ## TRSG3Mod
 
-The first board, G3Mod is intended for use on the original TRS-80 Model I and has a switch to select between the two 2K halves of the EPROM.
+The first board, G3Mod is primarily intended for use on the original US TRS-80 Model I and has a switch to select between the two 2K halves of the EPROM.
 
 Pin 1 wire connection should be to Z12 pin 11, on an original US board, and Z35 pin 11 on a Japanese board.
 
 ## TRSG3JPMod
 
-The second boards, G3JPMod is intended for use with the Japanese TRS-80 Model I, the two halves of the ROM being selected either by jumper settings on the main board, or by keyboard selection.
+The second board, G3JPMod is intended for use with the Japanese TRS-80 Model I, the two halves of the ROM being selected either by jumper settings on the main board, or by keyboard selection.
 
 Pin 1 wire connection should be to Z35 pin 11.
 
 ## ROMS
 
-ROM images for both boards.
+ROM images for both boards. More to follow.
