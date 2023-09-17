@@ -133,8 +133,8 @@ In addition to this, the good people of Tandy Discord have brought up that, way 
 
 ## Links
 
-  [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174)<br>  
-  [MJ15016 Transistor (Q4 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJ15016.html)<br>
+  [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174) 
+  [MJ15016 Transistor (Q4 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJ15016.html) 
   [MJE15029 Transistor (Q6 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJE15029.html)
 
 ## Credits
