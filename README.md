@@ -129,6 +129,8 @@ The second character ROM we don't actually have adds a Kana character set which 
 
 The slightly more readily available MCM6674P character ROM can be used for either, but the character layout isn't compatible without modification by the BASIC ROM. If you need to use this we've created an adapter board (see the Extras folder) to modify the character map using an EPROM. Without it you'll end up with hieroglyphics ([see image](https://github.com/Board-Folk/TRS80IJP/blob/main/images/wrongmap.jpg)).
 
+Update: The good people of Tandy Discord have brought up that way back when, the Gendon3 mod board was available as a substitute for the character ROM chip. This has proven suitable and usable for Japanese Model I though does require a single wired connection outside of the character ROM socket to work with it. We're currently testing versions of this a board that will fit original US version with a switch between two character sets as well as a board that will work with the built in Kana latch to switch between two character sets for the Japanese board. We'll upload to Extras as soon.
+
 ## Links
 
   [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174)
