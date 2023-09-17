@@ -76,8 +76,8 @@ All resistors 1/4W and capacitors 5mm pitch unless specified. Suggested substitu
 |1|Q1|2SC1815|Transistor||
 |2|Q2, Q5|2SA1015|Transistor||
 |1|Q3|2SC1499|Transistor||
-|1|Q4|2SB-B531|Transistor|Suggested: MJ15016|
-|1|Q6|2SB-B595|Transistor|Suggested: MJE15029|
+|1|Q4|2SB-B531|Transistor|Suggested: MJ15016 (See links)|
+|1|Q6|2SB-B595|Transistor|Suggested: MJE15029 (See links)|
 |2|Z1, Z2|LM723|IC||
 |1|Z11|74LS174|IC||
 |2|Z12, Z23|74LS245|IC||
@@ -117,7 +117,7 @@ All resistors 1/4W and capacitors 5mm pitch unless specified. Suggested substitu
 |1|K1|5V Relay|Other|Suggestion/PN to Follow|
 |1|S1|Power Switch|Other|Suggestion/PN to Follow|
 |1|S2|Reset Switch|Other|Suggestion/PN to Follow|
-|1|Y1|10.6445MHz HC49U|Other||
+|1|Y1|10.6445MHz HC49U|Other|(See links)|
 
 ## Notes on the Character ROM
 
@@ -129,11 +129,13 @@ The second character ROM we don't actually have adds a Kana character set which 
 
 The slightly more readily available MCM6674P character ROM can be used for either, but the character layout isn't compatible without modification by the BASIC ROM. If you need to use this we've created an adapter board (see the Extras folder) to modify the character map using an EPROM. Without it you'll end up with hieroglyphics ([see image](https://github.com/Board-Folk/TRS80IJP/blob/main/images/wrongmap.jpg)).
 
-Update: The good people of Tandy Discord have brought up that way back when, the Gendon3 mod board was available as a substitute for the character ROM chip. This has proven suitable and usable for Japanese Model I though does require a single wired connection outside of the character ROM socket to work with it. We're currently testing versions of this a board that will fit original US version with a switch between two character sets as well as a board that will work with the built in Kana latch to switch between two character sets for the Japanese board. We'll upload to Extras as soon.
+In addition to this, the good people of Tandy Discord have brought up that, way back when, the Gendon3 mod board was available as a substitute for the character ROM chip. This has proven suitable and usable for Japanese Model I though does require a single wired connection outside of the character ROM socket to work. We're currently testing versions of this a board that will fit original US version with a switch between two character sets as well as a board that will work with the built in Kana latch to switch between two character sets for the Japanese board. These have now been uploaded ot the Extras section, with a basic ROM set. More ROMs to use with them will be added as we find them. We're currently a bit stuck finding the Kana character set. There's enough there to get a system working without an original Motorola chip now if need be.
 
 ## Links
 
   [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174)
+  [MJ15016 Transistor (Q4 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJ15016.html)
+  [MJE15029 Transistor (Q6 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJE15029.html)
 
 ## Credits
 
