@@ -87,7 +87,8 @@ All resistors 1/4W and capacitors 5mm pitch unless specified. Suggested substitu
 |1|Z26|74LS14|IC||
 |1|Z3|SN75452|IC||
 |2|Z31, Z47|74LS132|IC||
-|2|Z32, Z44|74LS00|IC||
+|2|Z32|74C00|IC||
+|2|Z44|74LS00|IC||
 |3|Z33, Z46, Z50|74LS04|IC||
 |2|Z37, Z38|MCM667X|IC|Character ROM(s) 1 required|
 |1|Z39|74LS153|IC||
