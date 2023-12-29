@@ -8,6 +8,8 @@ This reposistory contains the BOM, gerbers and Kicad files for a remake of the T
 
 The Japanese board is a rework of the original US edition, some components updated and extra jumpers added to configure the system for 50/60 Hz use, support for an extra character ROM a change to 2114 video RAM chips which are more readily available. The pinout for the Japanese keyboard is different. Because of this for the purposes of making the remake more useful we've added a second pin header for the connection of an original US keyboard. Note the keyboard headers have a 2.5mm pitch.
 
+A replica of the original [TRS-80 Model I 1700069G board is now here](https://github.com/Board-Folk/TRS80IUS).
+
 ## Revisions
 
   * Version 1.1 Updated silkscreen including jumper tables for release.
