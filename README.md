@@ -1,10 +1,8 @@
 # TRS80IJP
 
-A remake of the TRS-80 Model I Japanese edition motherboard.
+A remake of the TRS-80 Model I Japanese (TEC) edition motherboard.
 
-*More updates to follow*
-
-![Build Board in Green](https://github.com/Board-Folk/TRS80IJP/blob/main/images/builtboardv1.0_small.jpg)
+![Built Board in Green](https://github.com/Board-Folk/TRS80IJP/blob/main/images/builtboardv1.0_small.jpg)
 
 This reposistory contains the BOM, gerbers and Kicad files for a remake of the TEC, Japanese version of the TRS-80 Model I, and some related projects and files to help make it work.
 
@@ -136,7 +134,7 @@ In addition to this, the good people of Tandy Discord have brought up that, way 
 
   [10.6445Mhz HC49U Quartz Crystal (UK)](https://www.mutant-caterpillar.co.uk/shop/product_info.php?products_id=5174)<br>
   [MJ15016 Transistor (Q4 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJ15016.html)<br>
-  [MJE15029 Transistor (Q6 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJE15029.html)
+  [MJE15031 Transistor (Q6 Substitute) (UK)](https://www.cricklewoodelectronics.com/MJE15031.html)
 
 ## Credits
 
@@ -144,7 +142,7 @@ PCB Layout by Rob Taylor @peepouk. Schematics recreated by Ian Cudlip @grandoldi
 
 ## Thanks
 
-  * The rest of the Board Folk
+  * The rest of the Board Folk Team
   * Adrian Black and friends for their test ROM which has been invaluable during testing. [TRS-80 Diagnostic ROM](https://github.com/misterblack1/trs80-diagnosticrom).
 
 ## Legal
